@@ -25,9 +25,4 @@ You can replace the synthetic data with real datasets (e.g., from public health 
 
 All dependencies are listed in `requirements.txt`.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/air-pollution-health-impact.git
-   cd air-pollution-health-impact
